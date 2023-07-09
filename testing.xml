@@ -3,7 +3,7 @@
 <suite name="Practice Suite">
 
 
-    <test name="Test Basics 2">
+    <test name="WebDriverHomework">
 
         <classes>
             <class name="WebDriverHomework.WebDriverHomework"/>
